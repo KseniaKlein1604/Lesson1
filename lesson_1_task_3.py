@@ -1,6 +1,6 @@
 
-first_name=("Ксения")
-last_name=("Раевская")
-print("Вас зовут:",first_name,last_name)
+first_name=input("Ксения")
+last_name=input("Раевская")
+print("Вас зовут:"+first_name,last_name)
 
 
